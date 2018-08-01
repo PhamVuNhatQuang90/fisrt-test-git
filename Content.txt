@@ -1,3 +1,7 @@
 name: NhatQuang
+<<<<<<< HEAD
 Thoi diem 2: Name: PhamVuNhatQuang
 Thoi diem 3: Name: PhamVuNhatQuang3
+=======
+Thoi diem 2: Name: PhamVuNhatQuang
+>>>>>>> parent of 3bf0f96... Changed
